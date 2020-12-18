@@ -17,6 +17,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navy-ss&show_icons=true&locale=en&layout=compact&theme=onedark" alt="navy-ss" /></p
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navy-ss&show_icons=true&locale=en&theme=onedark" alt="navy-ss" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navy-ss&show_icons=true&locale=en&theme=onedark" alt="navy-ss" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navy-ss&theme=onedark" alt="navy-ss" /></p>
